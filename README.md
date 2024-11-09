@@ -1,1 +1,1 @@
-# Repository Templates for Shorts
+# Template for Rust Short Repository

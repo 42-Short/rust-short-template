@@ -1,1 +1,1 @@
-# templates
+# Repository Templates for Shorts
